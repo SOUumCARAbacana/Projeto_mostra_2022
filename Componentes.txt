@@ -1,0 +1,4 @@
+Placa solar
+Controlador de carga - controla a corrente que vem da placa
+Bateria- armazena a energia
+inversor de corrente/tensão - transforma corrente contínua em alternada
